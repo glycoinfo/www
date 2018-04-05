@@ -3,7 +3,7 @@ title: Glycoinformatics Consortium (GLIC)
 layout: top
 ---
 
-### Resources
+### Semantic Web Resources
 * SPARQL endpoint (GLIC endpoint)
 * [Glycan-related RDF data](https://github.com/glycoinfo/rdf)
 
