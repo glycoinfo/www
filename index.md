@@ -4,14 +4,14 @@ layout: top
 ---
 
 ### Resources
-* SPARQL endpoint
-* RDF Data
+* SPARQL endpoint (GLIC endpoint)
+* [Glycan-related RDF data](https://github.com/glycoinfo/rdf)
 
 
 ### Groups
 * Ontology Group
-  * GlycoRDF
-  * Glycoconjugate ontology
+  * [GlycoRDF](https://github.com/ReneRanzinger/GlycoRDF)
+  * [Glycoconjugate ontology: GlyCoCoO](https://github.com/glycoinfo/GlycoCoO)
 
 
 * Representation Group
