@@ -20,4 +20,4 @@ layout: top
   * IUPAC
 
 ### Supported by
-* The noguchi institute
+* The Noguchi Institute
