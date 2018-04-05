@@ -3,14 +3,14 @@ title: Glycoinformatics Consortium (GLIC)
 layout: top
 ---
 
-## Resources
+### Resources
 * SPARQL endpoint
 * RDF Data
 
-## Groups
+### Groups
 * GlycoRDF
 * Glycoconjugate ontology
 * Glycan representation
 
-## Supported by
+### Supported by
 * The noguchi institute
