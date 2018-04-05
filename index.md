@@ -8,9 +8,12 @@ layout: top
 * RDF Data
 
 ### Groups
-* GlycoRDF
-* Glycoconjugate ontology
-* Glycan representation
+* Ontology Group
+#### GlycoRDF
+#### Glycoconjugate ontology
+* Representation Group
+#### GlycoCT
+#### WURCS
 
 ### Supported by
 * The noguchi institute
