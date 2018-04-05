@@ -1,24 +1,30 @@
 ---
-title: Glycoinformatics Consortium (GLIC)
+title: Glycoinformatics Consortium
 layout: top
 ---
 
-# Description
-Glycoinfomatics-oriented resources site
 
-# Resources
-* SPARQL Endpoint
-* Documentation
-* RDF Data
-* Other Data
+## Meetings  
+List of past and upcoming [meetings](meetings).
 
-# Group  
-Glycoinformatics Consortium (GLIC)
+## Members List  
+Helpful page to know about GLIC [members](member).
 
-## SubGroup
-### GlycoRDF Group
-### Glycoconjugate Ontology Consortium (GlyCoCoO)
-### Glycan Representation Group
-* GlycoCT
-* WURCS
-* IUPAC
+<br>
+
+## Database Resources  
+List of [database resources](database) with detailed information available specifically for glycoinformaticians.
+
+## Software Tools  
+List of [software tools](software) with detailed information available specifically for glycoinformaticians.
+
+<br>
+
+## Wish List  
+Fill out a [Form](wishList) for specific tools you wish to be developed.  
+The list of tools that are being developed is located [here](wishList/toolsList).
+
+<br>
+
+## Survey
+List of [survey forms](survey) that we would like members to fill out to help improve GLIC and other resources.
