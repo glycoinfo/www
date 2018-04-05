@@ -14,10 +14,10 @@ layout: top
   * Glycoconjugate ontology
 
 
-### Representation Group
+* Representation Group
   * GlycoCT
   * WURCS
-
+  * IUPAC
 
 ### Supported by
 * The noguchi institute
