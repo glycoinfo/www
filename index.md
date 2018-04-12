@@ -14,7 +14,7 @@ layout: top
 
   * [GlycoRDF](http://www.glycoinfo.org/GlycoRDF/)
   
-  * [Glycoconjugate ontology: GlyCoCoO](http://www.glycoinfo.org/GlycoCoO/)
+  * [Glycoconjugate ontology: GlycoCoO](http://www.glycoinfo.org/GlycoCoO/)
 
 
 * Representation
