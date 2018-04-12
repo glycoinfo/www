@@ -12,9 +12,9 @@ layout: top
 
 * Ontology
 
-  * [GlycoRDF](http://www.glycoinfo.org/GlycoRDF)
+  * [GlycoRDF](http://www.glycoinfo.org/GlycoRDF/)
   
-  * [Glycoconjugate ontology: GlyCoCoO](http://www.glycoinfo.org/GlycoCoO)
+  * [Glycoconjugate ontology: GlyCoCoO](http://www.glycoinfo.org/GlycoCoO/)
 
 
 * Representation
