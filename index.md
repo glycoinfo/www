@@ -3,6 +3,9 @@ title: Glycoinformatics Consortium (GLIC)
 layout: top
 ---
 
+### About
+* [Glycoinformatics Consortium: GLIC](http://glic.glycoinfo.org/)
+
 ### Wish List
 
 * Fill out a [Form](http://glic.glycoinfo.org/wishList/)  for specific tools you wish to be developed.
