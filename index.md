@@ -12,7 +12,7 @@ layout: top
 
 * Ontology
 
-  * [GlycoRDF](https://github.com/ReneRanzinger/GlycoRDF)
+  * [GlycoRDF](http://site.glycoinfo.org/GlycoRDF)
   
   * [Glycoconjugate ontology: GlyCoCoO](http://site.glycoinfo.org/GlycoCoO)
 
