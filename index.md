@@ -14,7 +14,7 @@ layout: top
 
   * [GlycoRDF](https://github.com/ReneRanzinger/GlycoRDF)
   
-  * [Glycoconjugate ontology: GlyCoCoO](https://github.com/glycoinfo/GlycoCoO)
+  * [Glycoconjugate ontology: GlyCoCoO](http://site.glycoinfo.org/GlycoCoO)
 
 
 * Representation
