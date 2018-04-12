@@ -28,4 +28,4 @@ layout: top
 
 ### Supported by
 
-* The Noguchi Institute
+* [The Noguchi Institute](http://noguchi.or.jp)
