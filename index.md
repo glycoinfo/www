@@ -41,11 +41,12 @@ The list of tools that are being developed is locate [here](http://glic.glycoinf
 
 ### Representation
 
+  * IUPAC
+  
   * GlycoCT
   
-  * WURCS
-  
-  * IUPAC
+  * [WURCS](https://glycoinfo.github.io/WURCS/)
+ 
 
 
 ### Meetings
