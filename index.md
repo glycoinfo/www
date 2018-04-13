@@ -26,7 +26,7 @@ The list of tools that are being developed is locate [here](http://glic.glycoinf
 
 ### Semantic Web Resources
 
-* SPARQL endpoint (GLIC endpoint)
+* [SPARQL endpoint (GLIC endpoint)](http://sparql.glycoinfo.org/sparql)
 
 
 * [Glycan-related RDF data](https://github.com/glycoinfo/rdf)
