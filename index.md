@@ -1,21 +1,11 @@
 ---
-title: Glycoinformatics Consortium (GLIC)
+title: Glycoinfo.org
 layout: top
 ---
 
-### About
-* [Glycoinformatics Consortium: GLIC](http://glic.glycoinfo.org/)
+### About glycoinfo.org
 
-### Wish List
-
-* Fill out a [Form](http://glic.glycoinfo.org/wishList/)  for specific tools you wish to be developed.
-The list of tools that are being developed is locate [here](http://glic.glycoinfo.org/wishList/toolsList) .
-
-
-### Survey
-
-* List of [Survey form](http://glic.glycoinfo.org/survey)  that we would like members to fill out to help improve GLIC and other resources.
-
+* ...
 
 ### Resources
 
@@ -48,17 +38,17 @@ The list of tools that are being developed is locate [here](http://glic.glycoinf
   * [WURCS](https://glycoinfo.github.io/WURCS/)
  
 
-
-### Meetings
-
-* List of past and upcoming [Meetings](http://glic.glycoinfo.org/meetings)
+### GLIC
+* [Glycoinformatics Consortium: GLIC](http://glic.glycoinfo.org/)
 
 
-### Members
+### Wish List
 
-* Helpful page to know about GLIC [members](http://glic.glycoinfo.org/member).
+* Fill out a [Form](http://glic.glycoinfo.org/wishList/)  for specific tools you wish to be developed.
+The list of tools that are being developed is locate [here](http://glic.glycoinfo.org/wishList/toolsList) .
 
 
-### Supported by
+### Survey
 
-* [The Noguchi Institute](http://noguchi.or.jp)
+* List of [Survey form](http://glic.glycoinfo.org/survey)  that we would like members to fill out to help improve GLIC and other resources.
+
