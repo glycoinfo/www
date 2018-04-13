@@ -40,15 +40,3 @@ layout: top
 
 ### GLIC
 * [Glycoinformatics Consortium: GLIC](http://glic.glycoinfo.org/)
-
-
-### Wish List
-
-* Fill out a [Form](http://glic.glycoinfo.org/wishList/)  for specific tools you wish to be developed.
-The list of tools that are being developed is locate [here](http://glic.glycoinfo.org/wishList/toolsList) .
-
-
-### Survey
-
-* List of [Survey form](http://glic.glycoinfo.org/survey)  that we would like members to fill out to help improve GLIC and other resources.
-
