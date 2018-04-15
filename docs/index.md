@@ -9,9 +9,9 @@ layout: top
 
 ### Resources
 
-* [Database Resources](http://glic.glycoinfo.org/database)
+* [Database Resources](https://glic.glycoinfo.org/database)
 
-* [Software Tools](http://glic.glycoinfo.org/software)
+* [Software Tools](https://glic.glycoinfo.org/software)
 
 
 ### Semantic Web Resources
@@ -26,7 +26,7 @@ layout: top
 
   * [GlycoRDF](http://www.glycoinfo.org/GlycoRDF/)
   
-  * [Glycoconjugate ontology: GlycoCoO](http://www.glycoinfo.org/GlycoCoO/)
+  * [Glycoconjugate ontology: GlycoCoO](https://www.glycoinfo.org/GlycoCoO/)
 
 
 ### Representation
@@ -39,4 +39,4 @@ layout: top
  
 
 ### GLIC
-* [Glycoinformatics Consortium: GLIC](http://glic.glycoinfo.org/)
+* [Glycoinformatics Consortium: GLIC](https://glic.glycoinfo.org/)
