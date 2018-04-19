@@ -1,5 +1,5 @@
 ---
-title: Glycoinfo.org
+title: Portal for Glycoinformatics
 layout: top
 ---
 
