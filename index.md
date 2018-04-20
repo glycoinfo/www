@@ -3,7 +3,7 @@ title: Portal for Glycoinformatics
 layout: top
 ---
 
-### About glycoinfo.org
+### About Glycoinformatics Portal
 
 * ...
 
