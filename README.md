@@ -1,4 +1,5 @@
-# glycoinfo.org
-Glycoinfo.org is a web site for glycoinformaticians.  
+# Glycoinfomatics-oriented Resources Site
 
-This web site provides a resources for glycoscience research.
+* Web site for glycoinformaticians.  
+
+** This web site provides a resources for glycoscience research.
