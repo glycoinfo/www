@@ -1,5 +1,6 @@
-# Glycoinfomatics-oriented Resources Site
+# Portal for Glycoinformatics
 
-* Web site for glycoinformaticians.  
+* Resources site for glycoinformaticians.  
 
 ** This web site provides a resources for glycoscience research.
+
